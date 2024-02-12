@@ -1,6 +1,6 @@
 <h1>🐨 Aishwarya J Panampilly</h1>
 
-<code> Developer <code>
+<code> Developer </code>
 
 <!---
 aishwarya-panampilly/aishwarya-panampilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
